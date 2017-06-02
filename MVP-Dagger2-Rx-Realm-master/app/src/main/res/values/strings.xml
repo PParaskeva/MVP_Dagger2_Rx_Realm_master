@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Panos Paraskeva_CodeSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search something in Itunes</string>
+
+    <string name="fragment_artist_list">ArtistListFragment</string>
+</resources>
